@@ -29,3 +29,10 @@ Hello, World!
 
 ## You might have a windows system so follow the [lua](https://www.lua.org/start.html) getting starting page.
 
+## If you want to change Hello, World! to something else change this
+
+```
+print("Hello, World!")
+change from inside the Speech Marks to anything else For example,
+print("Hi Guys")
+```
